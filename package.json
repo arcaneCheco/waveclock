@@ -2,7 +2,6 @@
   "name": "p5practice",
   "version": "1.0.0",
   "description": "",
-  "main": "sketch.js",
   "scripts": {
     "build": "npx parcel build ./index.html"
   },
